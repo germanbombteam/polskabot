@@ -69,4 +69,4 @@ async def info(ctx, user: discord.Member):
     embed.set_thumbnail(url=user.avatar_url)
     await bot.say(embed=embed)
 
-bot.run("Mzk3NjA4NDM0NDk0ODY1NDE4.DSyj1Q.a9OsjMSJpXBdP4A207DJ0peiPrQ")
+bot.run("code")
